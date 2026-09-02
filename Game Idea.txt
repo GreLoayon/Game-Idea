@@ -1,0 +1,4 @@
+The idea is a turn based tactical game with a rock-paper-scissors style
+of gameplay. Imagine a chess board but instead the pieces all have a
+'type'. There are 3 types: sword, spear and shield.
+The goal is to eliminate the core piece in order to win.
